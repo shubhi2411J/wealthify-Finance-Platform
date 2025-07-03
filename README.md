@@ -26,7 +26,7 @@ Features Section:
 Installation Steps:
 
 1. Clone the Repository:
-   git clone https://github.com/sanyamjain-dev/Wealthify-AI-Powered-Finance-Platform.git
+   git clone https://github.com/shubhi2411J/wealthify-Finance-Platform
    cd Wealthify-AI-Powered-Finance-Platform
 
 2. Install Dependencies:
