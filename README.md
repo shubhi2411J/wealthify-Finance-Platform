@@ -55,6 +55,6 @@ Installation Steps:
 
 
 Contact Section: 
-- Email: sanyamjain9191@gmail.com
-- GitHub: https://github.com/sanyamjain-dev
+- Email: jainshubhi1104@gmail.com
+- GitHub: https://github.com/shubhi2411
 
