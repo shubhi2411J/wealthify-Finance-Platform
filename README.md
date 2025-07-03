@@ -4,7 +4,8 @@ Overview Section:
 Wealthify is an AI-powered financial management platform designed to help users manage transactions, set budgets, and track expenses. 
 Advanced features include receipt scanning and email-based alerts for seamless financial tracking.
 
-![Dashboard](Frontend/public/wealthify-dashboard.png)
+![Uploading wealthify_homepage.jpg…]()
+
 
 
 
