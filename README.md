@@ -3,8 +3,8 @@ Project Title- Wealthify - AI-Powered Financial Management Platform
 Overview Section:
 Wealthify is an AI-powered financial management platform designed to help users manage transactions, set budgets, and track expenses. 
 Advanced features include receipt scanning and email-based alerts for seamless financial tracking.
+![wealthify_homepage](https://github.com/user-attachments/assets/9219cc40-0260-47c5-a143-5fb2ab798f91)
 
-![Uploading wealthify_homepage.jpg…]()
 
 
 
